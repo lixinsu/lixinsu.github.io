@@ -9,6 +9,15 @@ redirect_from:
 
 <!-- You can also find my publications on <a href="https://scholar.google.com/citations?user=6U4SXnUAAAAJ&hl=en">my Google Scholar profile</a>. -->
 
+### 2024
+1. **Text-Video Retrieval via Multi-Modal Hypergraph Networks** <br>
+Qian Li,<ins>**Lixin Su**</ins>, Jiashu Zhao, Long Phil Xia, Hengyi Cai, Suqi Cheng, Hengzhu Tang, junfeng wang, Dawei Yin <br>
+**WSDM'24**: Proceedings of the 17th International Conference on Web Search and Data Mining  <br>
+
+2. **Large Language Models for Data Aumgnetation in Recommendation** <br>
+Wei Wei, Xubin Ren, Jiabin Tang,  Qinyong Wang, <ins>**Lixin Su**</ins>, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang <br>
+**WSDM'24**: Proceedings of the 17th International Conference on Web Search and Data Mining  <br>
+ 
 
 ### 2021
 1. **Beyond Relevance: Trustworthy Answer Selection via Consensus Verification** <br>
