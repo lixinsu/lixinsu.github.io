@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a Senior R&D Engineer at Baidu Search. I received Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), working with Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
-My research interests lie in the general area of Information Retrieval, with a special focus on Open-Domain Question Answering, Neural Text Matching and Video Search System. 
+My research interests lie in the general areas of Information Retrieval, with a special focus on Question Answering, Text Matching and Text-Video Retrieval. 
 
 Education
 ------
