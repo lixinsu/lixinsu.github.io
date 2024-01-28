@@ -17,7 +17,10 @@ Qian Li,<ins>**Lixin Su**</ins>, Jiashu Zhao, Long Phil Xia, Hengyi Cai, Suqi Ch
 2. **Large Language Models for Data Aumgnetation in Recommendation** <br>
 Wei Wei, Xubin Ren, Jiabin Tang,  Qinyong Wang, <ins>**Lixin Su**</ins>, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang <br>
 **WSDM'24**: Proceedings of the 17th International Conference on Web Search and Data Mining  <br>
- 
+
+ 3. **Representation Learning with Large Language Models for Recommendation** <br>
+Xubin Ren, Wei Wei, Lianghao Xia, <ins>**Lixin Su**</ins>, Suqi Cheng, Junfeng Wang, Dawei Yin, Chao Huang  <br>
+**WWW'24**: THE WEB CONFERENCE 2024  <br>
 
 ### 2021
 1. **Beyond Relevance: Trustworthy Answer Selection via Consensus Verification** <br>
