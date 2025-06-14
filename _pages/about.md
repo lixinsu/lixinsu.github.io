@@ -9,24 +9,25 @@ redirect_from:
 ---
 
 
-I am a Senior R&D Engineer at Baidu Search. I received Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), working with Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
-My research interests lie in the general areas of Information Retrieval, with a special focus on Question Answering, Text Matching and Text-Video Retrieval. 
+I am a Research Scientist at [Baidu Search](http://searchscience.baidu.com/). I received Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), working with Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
+My research interests lie in the general areas of Information Retrieval, with a special focus on Web Ranking, Video Search, Generative Search. 
+
+<span style="color:red">Recently, our team has been enhancing search quality using LLMs! We are actively seeking talented engineers and self-motivated research interns. Please send your resume to sulixin [at] baidu.com. </span>
 
 Education
 ------
-  * **[Baidu Inc, Search Science Team](http://searchscience.baidu.com/)**
-    * Senior R&D, 2021.1 - present
+  * **Baidu Inc, Search Science Team**
+    * Research Scientist, 2021.1 - present
+    * Leading the Ranking and Relevance Team
   * **Institute of Computing Technology, Chinese Academy of Sciences**
-    * Ph.D. in Computer Science, 2017 - 2021.1
-    * Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
-  * **Institute of Computing Technology, Chinese Academy of Sciences**
-    * M.S. in Computer Science, 2015 - 2017
-    * Advisor: Assoc Prof. [Ying Liang](http://sourcedb.ict.cas.cn/cn/jssrck/200909/t20090917_2496667.html)
+    * Ph.D. in CS, 2015.9 - 2021.1
+    * Robustness of Question Answering
   * **Beijing Jiaotong University**
-    * B.E. in Electrical Engineering , 2011 - 2015
+    * B.E. in EECS , 2011.9 - 2015.7
 
 Professional Services
 ------
+  * 2025 SIGIR
   * 2024 WWW, WSDM
   * 2023 WSDM,CIKM
   * 2022 WWW,WSDM
