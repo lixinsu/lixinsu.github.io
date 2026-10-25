@@ -7,15 +7,45 @@ redirect_from:
 ---
 
 
-<!-- You can also find my publications on <a href="https://scholar.google.com/citations?user=6U4SXnUAAAAJ&hl=en">my Google Scholar profile</a>. -->
+See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=UWL6KAcAAAAJ) for the full publication list.
+
+Recent additions are listed below; preprints are labeled explicitly.
+
+### 2026
+
+1. **From Ranked Documents to Reliable Contexts: An Answer-Oriented Context Construct Framework for AI Search** [Paper](https://arxiv.org/abs/2609.23354) <br>
+Yunfei Zhong, Yinqiong Cai, <ins>**Lixin Su**</ins>, Haosheng Qian, Lixin Zou, Yixing Fan, Sheng Xu, Jiafeng Guo, Daiting Shi, Jingzhou He <br>
+**arXiv preprint** <br>
+
+1. **Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search** [Paper](https://arxiv.org/abs/2605.27066) <br>
+Mingyue Wang, Xingyu Xie, Hang Yang, Li Gao, <ins>**Lixin Su**</ins>, Ge Chen, Dawei Yin, Daiting Shi <br>
+**arXiv preprint** <br>
+
+1. **RAG-Enhanced Large Language Models for Dynamic Content Expiration Prediction in Web Search** [Paper](https://arxiv.org/abs/2605.13052) <br>
+Tingyu Chen, Wenkai Zhang, Li Gao, <ins>**Lixin Su**</ins>, Ge Chen, Dawei Yin, Daiting Shi <br>
+**arXiv preprint** <br>
+
+### 2025
+
+1. **Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning** [Paper](https://arxiv.org/abs/2511.09109) <br>
+Wenda Wei, Yu-An Liu, Ruqing Zhang, Jiafeng Guo, <ins>**Lixin Su**</ins>, Shuaiqiang Wang, Dawei Yin, Maarten de Rijke, Xueqi Cheng <br>
+**arXiv preprint** <br>
+
+1. **CoRanking: Collaborative Ranking with Small and Large Ranking Agents** [Paper](https://aclanthology.org/2025.findings-emnlp.273/) <br>
+Wenhan Liu, Xinyu Ma, Yutao Zhu, <ins>**Lixin Su**</ins>, Shuaiqiang Wang, Dawei Yin, Zhicheng Dou <br>
+**Findings of EMNLP 2025** <br>
+
+1. **Towards AI Search Paradigm** [Paper](https://arxiv.org/abs/2506.17188) <br>
+Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, Jiayi Wu, Yiqun Chen, Changle Qu, Keyi Kong, Wenwen Ye, <ins>**Lixin Su**</ins>, Xinyu Ma, Long Xia, Daiting Shi, Jiashu Zhao, Haoyi Xiong, Shuaiqiang Wang, Dawei Yin <br>
+**arXiv preprint** <br>
 
 ### 2024
 1. **Text-Video Retrieval via Multi-Modal Hypergraph Networks** <br>
-Qian Li,<ins>**Lixin Su**</ins>, Jiashu Zhao, Long Phil Xia, Hengyi Cai, Suqi Cheng, Hengzhu Tang, junfeng wang, Dawei Yin <br>
+Qian Li,<ins>**Lixin Su**</ins>, Jiashu Zhao, Long Phil Xia, Hengyi Cai, Suqi Cheng, Hengzhu Tang, Junfeng Wang, Dawei Yin <br>
 **WSDM'24**: Proceedings of the 17th International Conference on Web Search and Data Mining  <br>
 
-2. **Large Language Models for Data Aumgnetation in Recommendation** <br>
-Wei Wei, Xubin Ren, Jiabin Tang,  Qinyong Wang, <ins>**Lixin Su**</ins>, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang <br>
+2. **LLMRec: Large Language Models with Graph Augmentation for Recommendation** <br>
+Wei Wei, Xubin Ren, Jiabin Tang,  Qinyong Wang, <ins>**Lixin Su**</ins>, Suqi Cheng, Junfeng Wang, Dawei Yin, Chao Huang <br>
 **WSDM'24**: Proceedings of the 17th International Conference on Web Search and Data Mining  <br>
 
  3. **Representation Learning with Large Language Models for Recommendation** <br>

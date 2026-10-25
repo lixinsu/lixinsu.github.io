@@ -14,7 +14,7 @@ My research interests lie in the general areas of Information Retrieval, with a 
 
 <span style="color:red">Recently, our team has been enhancing search quality using LLMs! We are actively seeking talented engineers and self-motivated research interns. Please send your resume to sulixin [at] baidu.com. </span>
 
-Education
+Experience and Education
 ------
   * **Baidu Inc, Search Science Team**
     * Research Scientist, 2021.1 - present
@@ -24,6 +24,8 @@ Education
     * Robustness of Question Answering
   * **Beijing Jiaotong University**
     * B.E. in EECS , 2011.9 - 2015.7
+
+See my [publications](/publications/) and [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=UWL6KAcAAAAJ) for my research papers.
 
 Professional Services
 ------
