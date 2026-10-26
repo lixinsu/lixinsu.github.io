@@ -3,14 +3,14 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 
-I am a Research Scientist at [Baidu Search](http://searchscience.baidu.com/). I received Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), working with Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
-My research interests lie in the general areas of Information Retrieval, with a special focus on Web Ranking, Video Search, Generative Search. 
+I am a Research Scientist at [Baidu Search](http://searchscience.baidu.com/). I received my Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), working with Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
+My research focuses on information retrieval and AI search, including web ranking, multimodal retrieval, query understanding, and retrieval-augmented generation. My recent work explores how large language models and search agents can improve retrieval, reasoning, and the reliability of generated answers.
 
 <span style="color:red">Recently, our team has been enhancing search quality using LLMs! We are actively seeking talented engineers and self-motivated research interns. Please send your resume to sulixin [at] baidu.com. </span>
 
@@ -29,11 +29,15 @@ See my [publications](/publications/) and [Google Scholar profile](https://schol
 
 Professional Services
 ------
-  * 2025 SIGIR
-  * 2024 WWW, WSDM
-  * 2023 WSDM,CIKM
-  * 2022 WWW,WSDM
-  * 2021 WSDM
+Program committee member / reviewer (conference years):
+
+  * **2027:** WSDM (Full Paper Track)
+  * **2026:** SIGIR (Full Research Papers and Short Papers), WWW (Social Networks and Social Media Track), WSDM (Research Track), CIKM (Full Research Track), EMNLP (Industry Track), CCIR (Emergency Reviewer), ACL Rolling Review (August cycle)
+  * **2025:** SIGIR, WWW
+  * **2024:** WWW, WSDM, ACL (System Demonstration Track), EMNLP (Demo Track)
+  * **2023:** WSDM, CIKM, EMNLP (Demo Track)
+  * **2022:** WWW, WSDM, CIKM, CCL
+  * **2021:** WSDM, CIKM
 
 
 <style>
