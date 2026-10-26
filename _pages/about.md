@@ -10,9 +10,10 @@ redirect_from:
 
 
 I am a Research Scientist at [Baidu Search](http://searchscience.baidu.com/). I received my Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), working with Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
-My research focuses on information retrieval and AI search, including web ranking, multimodal retrieval, query understanding, and retrieval-augmented generation. My recent work explores how large language models and search agents can improve retrieval, reasoning, and the reliability of generated answers.
+My research focuses on building multilingual search engines for AI search.
 
-<span style="color:red">Recently, our team has been enhancing search quality using LLMs! We are actively seeking talented engineers and self-motivated research interns. Please send your resume to sulixin [at] baidu.com. </span>
+We are actively recruiting research interns. If you are interested, please send your CV to [sulixinict@gmail.com](mailto:sulixinict@gmail.com).
+
 
 Experience and Education
 ------
