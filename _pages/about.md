@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Research Scientist at [Baidu Search](http://searchscience.baidu.com/). I received my Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), working with Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
+I am a Research Scientist at [Baidu Search](http://searchscience.baidu.com/). I received my Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), working with Prof. [Jiafeng Guo](https://www.ict.ac.cn/sourcedb/cn/jssrck/201506/t20150605_4369430.html).
 My research focuses on building multilingual search engines for AI search.
 
 We are actively recruiting research interns. If you are interested, please send your CV to [sulixinict@gmail.com](mailto:sulixinict@gmail.com).
